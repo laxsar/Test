@@ -33,10 +33,11 @@
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "528A53E8-8308-48B6-A2F1-06A895781C87",
+  "do_objectID": "C4539819-7E0D-43F2-9F96-DE866BB5198C",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "D30DDBDD-A3F3-40CE-B634-00F42FB925FE",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -47,10 +48,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
+    "do_objectID": "029D96FB-8231-4BE3-B73B-11892406FC6C",
     "height": 14,
     "width": 100,
     "x": 739,
-    "y": 345
+    "y": 459
   },
   "glyphBounds": "{{0, 2}, {99, 10}}",
   "hasClippingMask": false,
@@ -61,7 +63,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "MUCH STICKERS",
+  "name": "MUCH STICKERS Copy 3",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -69,11 +71,13 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "3493B079-3671-4AE8-B85C-DBCAACBE7196",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
+      "do_objectID": "69670CE9-5792-4DCD-8DEC-2F4735165369",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
